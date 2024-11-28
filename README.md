@@ -16,9 +16,13 @@ Data.
 
 This folder stores data on each optimal dynamic cell differentiation strategy (an organism's reproductive rate under different parameter spaces). Since the data is large, we show the compressed data rather than the original data here.
 
-Figure.
+Figure code.
 
 This folder contains the Python scripts that read the relevant data stored in the folder data and generate corresponding figures.
+
+Figures.
+
+This folder contains the figures used in this work.
 
 Usage
 
