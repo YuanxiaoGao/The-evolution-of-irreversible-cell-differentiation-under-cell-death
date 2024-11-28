@@ -1,6 +1,6 @@
-![image](https://github.com/user-attachments/assets/54e373c4-336c-4f6d-bf16-0caade5db669)# The-evolution-of-irreversible-cell-differentiation-under-cell-death
+The-evolution-of-irreversible-cell-differentiation-under-cell-death
 
-This repository includes the codes, data, and other related materials for the work "The evolution of irreversible cell differentiation under cell death effect".
+This repository includes the codes, data, figures, and other related materials for the work "The evolution of irreversible cell differentiation under cell death effect".
 
 Overview
 
